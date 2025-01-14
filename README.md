@@ -26,13 +26,15 @@ EBOOK SUPER MARIO E AS MIOPATIAS MITOCONDRIAIS
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://acrobat.adobe.com/id/urn:aaid:sc:us:c0e8c47e-162e-4068-b1e1-28f0d96650e0.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Dall-E 2](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://canva.com)
 
 ## 🧠 Prompts
 
@@ -41,53 +43,31 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Me dê 5 ideias diferentes de títulos poderosos para um e-book sobre miopatias mitocondriais, com tema de Super Mario World                                                        |
+| conteúdo | Faça um texto para ebook. com foco em Miopatias Mitocondriais,com o tema do Super Mario, listando o quê é, principais sintomas, tratamentos, acompanhamento médico. {REGRAS} >Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga analogias simples e hipérboles sobre Miopatias Mitocondriais e Super Mario > Sempre deixe um título sugestivo por tópico > Fale como se estivesse conversando com um fã de Super Mario
 
 
-Midjourney：
+DALL-E 2：
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | Criar a imagem da mitocôndria da capa                                                                             |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem de uma mitocôndria em estilo pixel art |
+
+Canva：
+
+|  Ação  | Criar montagem da capa                                                                            |
+
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via DALL-E 2 Canva
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Raquel Amorim- portadora de Miopatia Mitocondrial e fã do Super Mario]([(https://github.com/Raquel-bit88))
